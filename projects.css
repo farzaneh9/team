@@ -1,0 +1,170 @@
+.slide-16-9-10,
+.slide-16-9-10 * {
+  box-sizing: border-box;
+}
+.heading-projects {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 48px/120% "Poppins", sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 75px;
+  width: 684px;
+}
+.project-management {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 328px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.paragraph {
+  color: #1e1e1e;
+  text-align: justified;
+  font: 400 20px/120% "Inter", sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 209px;
+  width: 817px;
+  height: 75px;
+}
+.cad-design {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 392px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.arduino-basic {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 456px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.processing {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 520px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.laser-cutting {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 584px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._3-d-printing {
+  color: #1e1e1e;
+  text-align: left;
+  font: 400 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 648px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.final-project {
+  color: #1e1e1e;
+  text-align: left;
+  font: 600 32px/200% "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 100px;
+  top: 712px;
+  width: 1595px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.vector-4 {
+  position: absolute;
+  left: 1445px;
+  top: 146px;
+  transform: translate(-1445px, -0.5px);
+  overflow: visible;
+}
+.navigation {
+  padding: 24px 42px 24px 42px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  width: 1340px;
+  position: absolute;
+  right: 100px;
+  top: -2px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.projects {
+  color: var(--black, #2d2d2d);
+  text-align: right;
+  font: 400 20px/27px "Poppins", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.members {
+  color: var(--black, #2d2d2d);
+  text-align: right;
+  font: 400 20px/27px "Poppins", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.school {
+  color: var(--black, #2d2d2d);
+  text-align: right;
+  font: 400 20px/27px "Poppins", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
